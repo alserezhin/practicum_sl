@@ -7,3 +7,5 @@
 Дополнительно измеряйте AUC-ROC, сравнивайте её значение с F1-мерой.
 
 Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
+
+Второй раз заливаю, так как в первый что-то запорол.
